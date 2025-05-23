@@ -5,3 +5,4 @@
 5. Добавить отслеживание файла 
 6. Сделать коммит
 7. Пушнуть в GitHub
+(git add, git commit -m "", git push -u origin main)
